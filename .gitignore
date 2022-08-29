@@ -1,1 +1,4 @@
 /node_modules/**
+/.idea/lt-ts.iml
+/.idea/workspace.xml
+/.idea/modules.xml
