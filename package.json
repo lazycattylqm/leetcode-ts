@@ -6,7 +6,7 @@
   "scripts": {
     "debug": "ts-node src/app.ts",
     "test": "jest",
-    "cofigJest": "ts-jest config:init"
+    "configJest": "ts-jest config:init"
   },
   "author": "liqiming",
   "license": "MIT",
