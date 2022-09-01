@@ -1,0 +1,7 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  // Set the default
+  "editor.formatOnSave": false
+  // Enable per-language
+}
