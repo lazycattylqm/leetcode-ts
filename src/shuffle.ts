@@ -5,6 +5,6 @@ function shuffle(nums: number[], n: number): number[] {
         result[i * 2 + 1] = nums[n + i];
     }
     return result;
-};
+}
 
 export default shuffle;
