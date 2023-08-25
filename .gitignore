@@ -4,3 +4,4 @@
 /.idea/modules.xml
 /pnpm-lock.yaml
 /.idea/leetcode-ts.iml
+/.fleet/**

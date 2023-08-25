@@ -1,5 +1,4 @@
 import TreeNode from "./treeNode";
-import { NodePath } from "@babel/core";
 
 export default function longestUnivaluePath(root: TreeNode | null): number {
 
